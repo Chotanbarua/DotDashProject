@@ -1,0 +1,39 @@
+//please add your test cases here.
+
+Verify http://localhost/dotdash-project/index.php lands NSS-TODO page home page
+Verify NSS-TODO Title is Displayed
+Verify the date is displayed under the NSS-TODO title
+Verify user able to select check box from the list
+Verify Remove button is displayed
+Verify user able to see advanced menu when click on Remove button
+Verify Complete button is displayed
+Verify user able to select the Toggle check box in the form section
+Verify all the checkbox is auto selected when Toggle box is checked or Selected.
+Verify user able to see the Categories in the Form section
+Verify user clicking on any categories lands question page to remove the categories.
+Verify “Are you sure wish to remove category” Displayed on Question page
+Verify “Yes” link is available under “Are you sure wish to remove category” on Question page
+Verify “Nevermind” link is available under “Are you sure wish to remove category” on Question page
+Verify user clicking on “yes” on Remove Category Question page will remove the category 
+Verify user clicking on “yes” on Remove Category Question page will returns on Home page.
+Verify user clicking on “Nevermind” on Remove Category Question page will remove the category.
+Verify user clicking on “Nevermind” on Remove Category Question page will returns on Home page. 
+Verify user able to enter list item with Add text field
+Verify user able to enter list item without selecting Category
+Verify user able to enter list item without selecting date
+Verify user able to enter list item selecting only Category
+Verify user able to enter list item selecting only date
+Verify clicking add button add lists in the list field
+Verify radio button appears when new list added
+Verify number list appear when new list added
+Verify user able to select Category from drop down list
+Verify user able Select due date using date fields
+Verify user able to enter Category with Add category field
+Verify user able to add Category without selecting color
+Verify adding category without selecting color selects default color black
+Verify user able to add Category with Selecting color
+Verify adding category with font colors displays the selected font color in the category list
+
+Ca
+
+
